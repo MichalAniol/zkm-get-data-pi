@@ -15,5 +15,5 @@ const PORT = 5000;
 // });
 
 const connector = require('./connector');
-// connector.start();
-connector.test();
+connector.start();
+// connector.test();

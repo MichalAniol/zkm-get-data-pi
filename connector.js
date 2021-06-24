@@ -21,7 +21,6 @@ axios.interceptors.response.use(function(res) {
 
 const test = () => {
     console.log(__dirname);
-
 }
 
 var LastUpdateData = '';
